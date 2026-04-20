@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a Master’s student in Computer Science, spe
 ---
 
 ## 🚀 About Me
-- 🎓 **Education**: 1)Coventry University, Bachelor’s in Electrical and Electronics Engineering.
+- 🎓 **Education**: Coventry University, Bachelor’s in Electrical and Electronics Engineering.
 - **🧠 Current Interests:** Software Development, Gen AI, Data Science & Data Analysis , Deep Learning and Machine Learning.
 - 💻 **Projects**: See below for detailed insights into my work!
 - 🌱 **Always Learning:** Continuously exploring cutting-edge advancements in data science and AI.
