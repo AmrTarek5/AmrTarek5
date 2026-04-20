@@ -1,11 +1,11 @@
-## 👋 Hi there, I'm Ayham Alkhatib!
-Welcome to my GitHub profile! I’m a Data Engineer at Kabafusion. 
+## 👋 Hi there, I'm Amr Hamdy!
+Welcome to my GitHub profile! I am a Master’s student in Computer Science, specializing in Data Science and Artificial Intelligence, expected to graduate in Summer 2026. 
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Education**: UMass Lowell, Data Science Major.
-- **🧠 Current Interests:** Software Development, Gen AI, Deep Learning and Machine Learning.
+- 🎓 **Education**: 1)Coventry University, Bachelor’s in Electrical and Electronics Engineering.
+- **🧠 Current Interests:** Software Development, Gen AI, Data Science & Data Analysis , Deep Learning and Machine Learning.
 - 💻 **Projects**: See below for detailed insights into my work!
 - 🌱 **Always Learning:** Continuously exploring cutting-edge advancements in data science and AI.
 
